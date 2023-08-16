@@ -98,7 +98,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   ![image](https://github.com/CarlosAlvarado0718/osTicket_Lifecycle/assets/140138198/03bedaf8-b113-4270-bf81-2d94df6c9cfe)
 
 >**Note***
->Once a ticket is resolved, it will be placed underneath the `Closed` tab
+>_Once a ticket is resolved, it will be placed underneath the `Closed` tab_
 
 ![image](https://github.com/CarlosAlvarado0718/osTicket_Lifecycle/assets/140138198/e7139d33-ff53-41d1-819a-16dab281023b)
 
